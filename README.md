@@ -12,27 +12,18 @@ estudante de Engenharia de Software, dedicado a construir uma base sólida em pr
 - Python (nível iniciante)
 - HTML
 - CSS
-
 **Ferramentas:**
 - Git
 - GitHub
 - Visual Studio Code (VS Code)
 - Google Workspace
-
 **Conceitos:**
 - Lógica de programação
 - Estruturas de dados
 - Algoritmos
-
 **Soft Skills:**
 - Comunicação eficaz
 - Empatia
-- Foco no cliente
-
-**Plataformas de Estudo:**
-- [DIO (Digital Innovation One)](https://www.dio.me/)
-
-    DIO
 
 * ✉️  You can contact me at [antonio.medeiros@sempreceub.com](mailto:antonio.medeiros@sempreceub.com)
 * 🧠  I'm learning PYTHON
