@@ -1,44 +1,22 @@
-# PortifolioHub - Antonio Vinicius de Medeiros
-Esse repositório foi criado como parte do desafio PortifolioHub, mesclando Git e GitHub
-🗂️ PORTIFOLIOHUB
-1. Repositório Principal: meu-portfolio
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio Vinicius de Medeiros
+====================================================================================================================================================
 
-Este repositório servirá como a página inicial do seu portfólio. Utilize o GitHub Pages para hospedar um site estático que apresente suas informações de forma profissional.
+esse repositorio foi criado como parte do desafio PortifolioHub
+---------------------------------------------------------------
 
-Conteúdo sugerido:
+estudante de Engenharia de Software, dedicado a construir uma base sólida em programação, estruturas de dados e algoritmos. Atualmente, estou focado no aprendizado da linguagem Python
 
-    README.md: Inclua uma breve apresentação sobre você, seus objetivos profissionais e um resumo das suas habilidades.
+* ✉️  You can contact me at [antonio.medeiros@sempreceub.com](mailto:antonio.medeiros@sempreceub.com)
+* 🧠  I'm learning PYTHON
 
-    Seções no site:
+### Skills
 
-        Sobre Mim: Detalhes sobre sua formação, interesses e objetivos na área de Engenharia de Software.
 
-        Projetos: Lista dos seus principais projetos, com links para os respectivos repositórios.
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
-        Habilidades: Tecnologias e ferramentas que você domina ou está aprendendo, como Python, Git, etc.
 
-        Contato: Informações para contato, como e-mail e links para redes sociais profissionais.
+### Socials
 
-2. Repositórios de Projetos
-
-Para cada projeto relevante, crie um repositório separado. Isso facilita a organização e permite que recrutadores vejam seu código de forma isolada.
-
-Exemplos de projetos:
-
-    estrutura-de-dados-python: Implementações de listas, pilhas, filas e árvores em Python.
-
-    algoritmos-de-busca-e-ordenacao: Algoritmos clássicos implementados em Python, com análises de complexidade.
-
-    sistema-de-cadastro: Aplicação simples com interface gráfica ou web para cadastro de usuários.
-
-Dicas para cada repositório:
-
-    README.md: Descreva o objetivo do projeto, tecnologias utilizadas, instruções de instalação e uso.
-
-    Licença: Adicione uma licença apropriada, como MIT ou GPL, para esclarecer os direitos de uso.
-
-    Commits: Faça commits frequentes com mensagens claras e descritivas.
-  
-🔗 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ant%C3%B4nio-vin%C3%ADcius-7aa428369/)
+<p align="left"> <a href="https://www.github.com/Gakonha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ant%C3%B4nio-vin%C3%ADcius-7aa428369/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
