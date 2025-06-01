@@ -6,15 +6,32 @@ esse repositorio foi criado como parte do desafio PortifolioHub
 
 estudante de Engenharia de Software, dedicado a construir uma base sólida em programação, estruturas de dados e algoritmos. Atualmente, estou focado no aprendizado da linguagem Python
 
-🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
-    Linguagens de Programação: Python (nível iniciante), HTML, CSS
+**Linguagens de Programação:**
+- Python (nível iniciante)
+- HTML
+- CSS
 
-    Ferramentas: Git, GitHub, VS Code, Google Workspace
+**Ferramentas:**
+- Git
+- GitHub
+- Visual Studio Code (VS Code)
+- Google Workspace
 
-    Conceitos: Lógica de programação, estruturas de dados, algoritmos
+**Conceitos:**
+- Lógica de programação
+- Estruturas de dados
+- Algoritmos
 
-    Soft Skills: Comunicação eficaz, empatia, foco no cliente
+**Soft Skills:**
+- Comunicação eficaz
+- Empatia
+- Foco no cliente
+
+**Plataformas de Estudo:**
+- [DIO (Digital Innovation One)](https://www.dio.me/)
+
     DIO
 
 * ✉️  You can contact me at [antonio.medeiros@sempreceub.com](mailto:antonio.medeiros@sempreceub.com)
