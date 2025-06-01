@@ -12,15 +12,18 @@ estudante de Engenharia de Software, dedicado a construir uma base sólida em pr
 - Python (nível iniciante)
 - HTML
 - CSS
+  
 **Ferramentas:**
 - Git
 - GitHub
 - Visual Studio Code (VS Code)
 - Google Workspace
+  
 **Conceitos:**
 - Lógica de programação
 - Estruturas de dados
 - Algoritmos
+  
 **Soft Skills:**
 - Comunicação eficaz
 - Empatia
