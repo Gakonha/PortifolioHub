@@ -6,9 +6,9 @@ esse repositorio foi criado como parte do desafio PortifolioHub
 
 estudante de Engenharia de Software, dedicado a construir uma base sólida em programação, estruturas de dados e algoritmos. Atualmente, estou focado no aprendizado da linguagem Python
 
-## 📄 Portifólio
+## 📄 Portifolio
 
-- [Plano de Implantação do PortfolioHUB]([https://docs.google.com/presentation/d/149J1YYLBtXpXOdM8TkbCUZxVdVzXGHMbsexaYdZa-pg/edit?slide=id.p#slide=id.p))
+- [Plano de Implantação do PortfolioHUB](https://docs.google.com/presentation/d/149J1YYLBtXpXOdM8TkbCUZxVdVzXGHMbsexaYdZa-pg/edit?slide=id.g35f88b40875_1_12#slide=id.g35f88b40)
 
 
 ## 🛠️ Habilidades Técnicas
