@@ -8,7 +8,7 @@ estudante de Engenharia de Software, dedicado a construir uma base sólida em pr
 
 ## 📄 Portifólio
 
-- [Plano de Implantação do PortfolioHUB]([https://docs.google.com/document/d/SEU_ID_DO_DOCUMENTO/edit?usp=sharing](https://docs.google.com/presentation/d/149J1YYLBtXpXOdM8TkbCUZxVdVzXGHMbsexaYdZa-pg/edit?slide=id.p#slide=id.p))
+- [Plano de Implantação do PortfolioHUB]([https://docs.google.com/presentation/d/149J1YYLBtXpXOdM8TkbCUZxVdVzXGHMbsexaYdZa-pg/edit?slide=id.p#slide=id.p))
 
 
 ## 🛠️ Habilidades Técnicas
